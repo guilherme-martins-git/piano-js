@@ -135,3 +135,7 @@ body{
     border-bottom: none;
     height: 148px;
 }
+
+.disabled-keys span {
+    opacity: 0;
+}
